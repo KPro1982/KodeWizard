@@ -1,5 +1,5 @@
 {
-    "searchfor":  "-searchFor \\barray\\W+(?:\\w+\\W+){0,10}?sort|sort\\W+(?:\\w+\\W+){0,10}array\\b",
+    "searchfor":  "-searchFor .sort()",
     "dngreppath":  "C:\\Program Files\\dnGrep\\dnGREP.exe",
     "scriptfolder":  "P:\\scripts"
 }
