@@ -1,5 +1,5 @@
 {
-    "searchfor":  "-searchFor \\bplayer\\W+(?:\\w+\\W+){0,10}?wet|wet\\W+(?:\\w+\\W+){0,10}player\\b",
+    "searchfor":  "-searchFor ^.*?\\bref\\b.*?\\barray\\b.*?\\bstring\\b.*?$",
     "dngreppath":  "C:\\Program Files\\dnGrep\\dnGREP.exe",
     "scriptfolder":  "P:\\scripts"
 }
